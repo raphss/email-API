@@ -1,6 +1,6 @@
 # email-API
 
-> Api para envio e gerenciamento de emails.
+> API para envio e gerenciamento de emails.
 
 <p align="center">
     <img src="email.png" alt="API Email" width="600">
