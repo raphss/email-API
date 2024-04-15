@@ -3,7 +3,7 @@
 > Api para envio e gerenciamento de emails.
 
 <p align="center">
-    <img src="email.png" alt="Syslink Desktop" width="600">
+    <img src="email.png" alt="API Email" width="600">
 </p>
 
 ## Sobre o Projeto
